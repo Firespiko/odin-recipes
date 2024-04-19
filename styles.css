@@ -1,0 +1,23 @@
+* {
+    background: black;
+    color: white;
+}
+.header-title,
+.list {
+    font-weight: bold;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 40px;
+}
+
+.list {
+    margin-top: 100px;
+    font-size: 15px;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
